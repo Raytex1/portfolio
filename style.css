@@ -1,0 +1,42 @@
+
+h1{
+    text-align: center;
+    background-color: aliceblue;
+}
+body{
+    background-color: aliceblue;
+    color: rgba(0, 0, 0, 0.884);
+}
+img{
+    height: 340px;
+    weight: 867px;
+}
+.thebest{
+    text-align: center;
+    font-size: 27px;
+    background-color:aliceblue;   
+}
+span{
+    background-color:rgba(0, 174, 255, 0.384) ;
+}
+.key{
+    background-color:aliceblue;
+    font-size: 21px;
+}
+main{
+    width: 60%;
+    margin: auto;
+}
+.key2{
+    font-size: 19px;
+    text-align: center; 
+}
+.hotel{
+    text-align: center;
+}
+.key0{
+    text-align: center; 
+}
+
+
+
