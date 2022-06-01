@@ -21,7 +21,7 @@ span{
 }
 .key{
     background-color:aliceblue;
-    font-size: 21px;
+    font-size: 19px;
 }
 main{
     width: 60%;
@@ -33,9 +33,25 @@ main{
 }
 .hotel{
     text-align: center;
+    font-size: 19px;
 }
 .key0{
     text-align: center; 
+}
+.sport{
+    text-align: center;
+    font-size: 19px;
+}
+.school0{
+    text-align: center;
+}
+.school{
+    text-align: center;
+    font-size: 19px;   
+}
+footer{
+    font-size: 19px;
+    background-color: blueviolet;
 }
 
 
